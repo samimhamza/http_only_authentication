@@ -81,7 +81,7 @@ WSGI_APPLICATION = "http_only_auth.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "http_only_auth",
+        "NAME": "http_only_auth1",
         "PASSWORD": "1234",
         "USER": "postgres",
         "HOST": "localhost",
